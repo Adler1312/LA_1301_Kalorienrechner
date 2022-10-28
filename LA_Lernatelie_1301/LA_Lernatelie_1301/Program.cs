@@ -70,13 +70,7 @@ namespace LA_Lernatelie_1301
             var formeln2 = new Formeln();
 
             double leistungsUmsatz = formeln2.Leistungsumsatz(lumsatz);
-            //Console.WriteLine(leistungsUmsatz);
-            //double lU = formeln2.Leistungsumsatz(lumsatz);
-            //decimal lolo = Convert.ToDecimal(lU);
-            //lolo = decimal.Round(lolo, 2);
-            //int leistungsumsatz = Convert.ToInt32(lolo);
-            //Console.WriteLine(leistungsumsatz);
-            //Console.Clear();
+            
 
             var formeln3 = new Formeln();
 
