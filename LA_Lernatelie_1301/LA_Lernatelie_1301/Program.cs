@@ -42,7 +42,7 @@ namespace LA_Lernatelie_1301
             }
             
             
-            Console.WriteLine("Das sind ihre Körperdaten: " + richtigeeingabe + " " + gewicht + "Kg" + " " + alter + "Jahre" + " " + groesse + "cm" + " " + geschlecht);
+           
 
 
             Console.Clear();
