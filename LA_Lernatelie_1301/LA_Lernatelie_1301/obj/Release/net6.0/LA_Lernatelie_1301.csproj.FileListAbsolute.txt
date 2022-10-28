@@ -1,0 +1,15 @@
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\bin\Release\net6.0\LA_Lernatelie_1301.exe
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\bin\Release\net6.0\LA_Lernatelie_1301.deps.json
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\bin\Release\net6.0\LA_Lernatelie_1301.runtimeconfig.json
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\bin\Release\net6.0\LA_Lernatelie_1301.dll
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\bin\Release\net6.0\LA_Lernatelie_1301.pdb
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\LA_Lernatelie_1301.csproj.AssemblyReference.cache
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\LA_Lernatelie_1301.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\LA_Lernatelie_1301.AssemblyInfoInputs.cache
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\LA_Lernatelie_1301.AssemblyInfo.cs
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\LA_Lernatelie_1301.csproj.CoreCompileInputs.cache
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\LA_Lernatelie_1301.dll
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\refint\LA_Lernatelie_1301.dll
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\LA_Lernatelie_1301.pdb
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\LA_Lernatelie_1301.genruntimeconfig.cache
+C:\Users\Altrim Muharemi\source\repos\LA_Lernatelie_1301\LA_Lernatelie_1301\obj\Release\net6.0\ref\LA_Lernatelie_1301.dll

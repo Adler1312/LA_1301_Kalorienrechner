@@ -1,0 +1,5 @@
+C:\Users\Altrim Muharemi\MyApp\LA_Lernatelie_1301.exe
+C:\Users\Altrim Muharemi\MyApp\LA_Lernatelie_1301.dll
+C:\Users\Altrim Muharemi\MyApp\LA_Lernatelie_1301.deps.json
+C:\Users\Altrim Muharemi\MyApp\LA_Lernatelie_1301.runtimeconfig.json
+C:\Users\Altrim Muharemi\MyApp\LA_Lernatelie_1301.pdb
